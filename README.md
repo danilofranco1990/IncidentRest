@@ -1,7 +1,7 @@
 
-##Cadastro simples de Incidentes
+## Cadastro simples de Incidentes
 
-#Sobre o projeto
+# Sobre o Projeto
 
 A aplicação consiste em um cadastro simple de  que realiza operações REST onde possibilita a realização de cadadastro,atualização, remoção e consulta de incidentes.  
 
